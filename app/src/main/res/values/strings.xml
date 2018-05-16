@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex3</string>
+    <string name="asynctask_activity">AsyncTask Activity</string>
+    <string name="threads_activity">Threads Activity</string>
+</resources>
